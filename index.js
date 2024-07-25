@@ -38,6 +38,6 @@ async function notification(userId) {
     })
 }
 
-application.listen(8000)
+// application.listen(8000)
 
 module.exports = application
